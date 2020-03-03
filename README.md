@@ -4,7 +4,7 @@
 
 Submitted by: **Martin Palomino**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had issues with class name that would not let my app run. Once that was resolved, had issues with recording the gif. 
 
 ## License
 
